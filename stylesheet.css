@@ -1,38 +1,35 @@
 p { 
-    text-align: center;   color: rgb(0, 0, 0);
+    text-align: center;   color: #3D52A0;
   }
   #para1 {
-    text-align: center;   color: rgb(22, 22, 26);
-  }
-  .center {
-    text-align: center;   color: rgb(24, 29, 24);
+    text-align: center;   color: #3D52A0;
   }
   body {
-	background: rgb(255, 255, 255);
+	background: #ADBBDA;
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: black;
+	color: #3D52A0;
 	text-align: center;
 }
 
 .about{
-  background-color: aliceblue;
+  background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 .skills{
-  background-color: aliceblue;
+  background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 .projects{
-  background-color: aliceblue;
+  background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 .contact{
-  background-color: aliceblue;
+  background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
