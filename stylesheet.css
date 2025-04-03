@@ -20,7 +20,7 @@ h1 {
 }
 
 div{
-  height:auto;
+  height:auto + 5px;
   width: 300px;
   border-radius: 15%;
   background-color: #8697C4;
