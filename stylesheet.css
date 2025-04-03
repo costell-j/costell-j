@@ -20,14 +20,13 @@ h1 {
 }
 
 div{
-  height:300px;
+  height:auto;
   width: 300px;
   border-radius: 15%;
   background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
-  left:50%;
-  transform: translate(-50%);
+
 }
 
 
