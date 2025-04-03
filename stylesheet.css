@@ -20,21 +20,29 @@ h1 {
 }
 
 .about{
+  border-width: 500;
+  border-radius: 15%;
   background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 .skills{
+  border-width: 500;
+  border-radius: 15%;
   background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 .projects{
+  border-width: 500;
+  border-radius: 15%;
   background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 .contact{
+  border-width: 500;
+  border-radius: 15%;
   background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
