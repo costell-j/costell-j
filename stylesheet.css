@@ -1,6 +1,8 @@
 
 title{
-  text-align: center;   color: #3D52A0;
+  text-align: center;   
+  color: #3D52A0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p { 
     text-align: center;   color: #3D52A0;
@@ -17,33 +19,13 @@ h1 {
 	text-align: center;
 }
 
-.about{
-  border-width: 200px;
+div{
+  width: 200px;
   border-radius: 15%;
   background-color: #8697C4;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
-.skills{
-  border-width: 200px;
-  border-radius: 15%;
-  background-color: #8697C4;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-}
-.projects{
-  border-width: 200px;
-  border-radius: 15%;
-  background-color: #8697C4;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-}
-.contact{
-  border-width: 200px;
-  border-radius: 15%;
-  background-color: #8697C4;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-}
+
 
 
