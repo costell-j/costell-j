@@ -2,7 +2,6 @@
 body {
   display:flex;
 	background-color: #ADBBDA;
-	font-family: Arial, Helvetica, sans-serif;
   justify-content:center;
 }
 
@@ -12,7 +11,7 @@ h1, h2, h3, p {
 }
 
 div{
-  height:auto + 10px;
+  height:auto;
   width: 900px;
   border-radius: 15%;
   background-color: #8697C4;
